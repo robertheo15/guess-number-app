@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
-
-	"number-guessing-game/repository"
-	"number-guessing-game/service"
+	"guess-number-app/internal/repository"
+	"guess-number-app/internal/service"
 )
 
 func main() {
