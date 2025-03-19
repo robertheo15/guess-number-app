@@ -2,10 +2,9 @@ package service
 
 import (
 	"fmt"
+	"guess-number-app/internal/repository"
 	"math/rand"
 	"time"
-
-	"number-guessing-game/repository"
 )
 
 type GameService struct {
